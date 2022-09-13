@@ -1,2 +1,2 @@
 # Jengi
-pronounced "jen-g-ee"
+pronounced "jeng-ee"
